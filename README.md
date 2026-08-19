@@ -61,7 +61,6 @@ Younger employees tend to leave more, while older employees tend to show stronge
 - Job Level
 - Years in Current Role
 
-> **Important:** Correlation describes association, not causation. These variables should not be interpreted as proof that they directly cause employee attrition.
 
 ## Dashboard
 
@@ -96,8 +95,7 @@ HR-Analytics-Project/
 ├── README.md
 ├── HR_Analytics_Dashboard.xlsx
 ├── HR_Analytics_Project_2_Report.pptx
-├── Dataset/
-│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+├── Dataset
 │
 └── Screenshots/
     └── HR_Analytics_Dashboard.png
